@@ -1,0 +1,83 @@
+{
+  "workbench.colorTheme": "Monokai Pro",
+  "editor.semanticTokenColorCustomizations": {
+    "[Default Dark+]": {
+      "rules": {
+        "property.mandatory:xml": {
+          "bold": true
+        },
+        "string.i18n:xml": {
+          "italic": true
+        }
+      }
+    },
+    "[Default Light+]": {
+      "rules": {
+        "property.mandatory:xml": {
+          "bold": true
+        },
+        "string.i18n:xml": {
+          "italic": true
+        }
+      }
+    },
+    "[Default High Contrast]": {
+      "rules": {
+        "property.mandatory:xml": {
+          "bold": true
+        },
+        "string.i18n:xml": {
+          "italic": true
+        }
+      }
+    }
+  },
+  "sap.ux.applicationModeler.disableMigrationPrompt": true,
+  "git.enableSmartCommit": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.tabSize": 2,
+  "workbench.editor.wrapTabs": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 150
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.minimap.enabled": true,
+  "[xml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 150
+  },
+  "prettier.printWidth": 150,
+  "prettier.proseWrap": "never",
+  "prettier.singleAttributePerLine": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -2,
+  "tabnine.experimentalAutoImports": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "todohighlight.isEnable": true,
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.defaultStyle": {},
+  "todohighlight.keywords": [
+    "TODO:",
+    "DEBUG:",
+    "REVIEW:",
+    "NOTE:",
+    {
+      "text": "NOTE:",
+      "color": "#ffffff",
+      "backgroundColor": "grey",
+      "overviewRulerColor": "grey"
+    }
+  ]
+}
