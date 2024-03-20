@@ -79,5 +79,8 @@
       "backgroundColor": "grey",
       "overviewRulerColor": "grey"
     }
-  ]
+  ],
+   "workbench.colorCustomizations": {
+      "editor.lineHighlightBackground": "#777676"
+  }
 }
