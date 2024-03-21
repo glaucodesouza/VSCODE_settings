@@ -1,5 +1,8 @@
 {
   "workbench.colorTheme": "Monokai Pro",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#777676"
+  },
   "editor.semanticTokenColorCustomizations": {
     "[Default Dark+]": {
       "rules": {
@@ -69,18 +72,23 @@
   "todohighlight.isCaseSensitive": true,
   "todohighlight.defaultStyle": {},
   "todohighlight.keywords": [
-    "TODO:",
-    "DEBUG:",
-    "REVIEW:",
-    "NOTE:",
     {
       "text": "NOTE:",
       "color": "#ffffff",
       "backgroundColor": "grey",
       "overviewRulerColor": "grey"
+    },
+    {
+      "text": "TODO:",
+      "color": "#ffffff",
+      "backgroundColor": "grey",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "obs:",
+      "color": "#ffffff",
+      "backgroundColor": "grey",
+      "overviewRulerColor": "grey"
     }
-  ],
-   "workbench.colorCustomizations": {
-      "editor.lineHighlightBackground": "#777676"
-  }
+  ]
 }
