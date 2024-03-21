@@ -90,5 +90,47 @@
       "backgroundColor": "grey",
       "overviewRulerColor": "grey"
     }
+  ],
+  "crayons.theme": [
+    {
+      "light": {
+        "bg": "#5184a8",
+        "fg": "#b7ccdc"
+      },
+      "dark": {
+        "bg": "#c7d8e4",
+        "fg": "#ffffff"
+      }
+    },
+    {
+      "light": {
+        "bg": "#6168b2",
+        "fg": "#c7cae4"
+      },
+      "dark": {
+        "bg": "#c7d8e4",
+        "fg": "#ffffff"
+      }
+    },
+    {
+      "light": {
+        "bg": "#68b261",
+        "fg": "#cae4c7"
+      },
+      "dark": {
+        "bg": "#c7d8e4",
+        "fg": "#ffffff"
+      }
+    },
+    {
+      "light": {
+        "bg": "#61b2ab",
+        "fg": "#c7e4e1"
+      },
+      "dark": {
+        "bg": "#c7d8e4",
+        "fg": "#ffffff"
+      }
+    }
   ]
 }
